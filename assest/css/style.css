@@ -124,6 +124,7 @@ body{
 .btn-theme {
     background: var(--body-color);
     color: var(--light-color);
+    border-radius: 5px;
 }
 
 .btn-theme:hover {
